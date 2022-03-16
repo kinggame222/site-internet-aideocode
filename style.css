@@ -1,11 +1,12 @@
 .bienvenu {
   text-align: center;
 }
+.titre {
+    text-align: center;
+    font-size:60 px;
 
-/* d
- 
- 
- */
+}
+
 html {
   background: linear-gradient(100deg, #f3977b, #ae3fbd, #71cdee, #5bc7ae);
   background-size: 400% 400%;
