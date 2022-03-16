@@ -39,7 +39,7 @@ li {
 li a,
 .dropbtn {
   display: inline-block;
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -58,7 +58,7 @@ li.dropdown {
   display: none;
   position: absolute;
   /*la couleur du drop */
-  background-color: #ffffff;
+  background-color: #4d4d4d;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -66,7 +66,7 @@ li.dropdown {
 
 .dropdown-content a {
   /*la couleur du texte du drop */
-  color: black;
+  color: rgb(255, 255, 255);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
